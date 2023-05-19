@@ -103,3 +103,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+  repo: https://github.com/yisier1/yisier1.github.io
+  # example, https://github.com/hexojs/hexojs.github.io
+  branch: master
